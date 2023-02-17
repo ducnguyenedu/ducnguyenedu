@@ -8,3 +8,6 @@ This is my education github:
 </a>
 <a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnguyenedures&show_icons=true&locale=en" alt="hideongloomist" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyenedures&" alt="hideongloomist" /></p>
